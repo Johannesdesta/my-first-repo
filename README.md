@@ -34,4 +34,7 @@ This project is available for educational and learning purposes.
 
 ### added from local
 
-dadfdsfg
+Things that i will do today
+- register github
+- create a repo
+- practice Git commands
